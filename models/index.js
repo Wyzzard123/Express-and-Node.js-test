@@ -1,4 +1,5 @@
 'use strict';
+//Note, this file must be called index.js. This is just a special file for initializing sequelize.
 
 const fs = require('fs');
 const path = require('path');

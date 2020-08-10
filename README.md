@@ -13,6 +13,10 @@ Following tutorial for Express JS and Node JS here: https://www.youtube.com/watc
     1. Default .sequelizerc config can be found here: https://sequelize.org/master/manual/migrations.html#the--code--sequelizerc--code--file
     1. Must modify the default .sequelizerc file then use sequelize init 
     1. Must modify the new config.js file (default name is database.json)
+    1. Migrate with sequelize db:migrate
 
 1. pg = low level library to install postgresql
 1. Also should use npm install sequelize-cli
+
+## Postgres notes
+1. You must have '' around the password and end your statements with ;, or the SQL queries will not work.
