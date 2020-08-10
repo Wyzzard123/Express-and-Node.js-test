@@ -4,6 +4,7 @@
 // Must add a port.
 module.exports = {
   "development": {
+    //To log into database: psql express-mvp-db express-mvp-dbuser
     "username": "express-mvp-dbuser",
     "password": "mvp_db",
     "database": "express-mvp-db",
