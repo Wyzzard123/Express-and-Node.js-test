@@ -2,6 +2,8 @@
 
 Following tutorial for Express JS and Node JS here: https://www.youtube.com/watch?v=G8uL0lFFoN0
 
+Stopped at https://youtu.be/G8uL0lFFoN0?t=4728 in favour of finding tutorials on a full MEAN stack application.
+
 ## How to use
 
 1. Use npm run dev to run server using nodemon that autorefreshes.
